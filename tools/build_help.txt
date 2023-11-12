@@ -1,0 +1,2 @@
+pyinstaller combordle.py --onefile --noconsole
+
